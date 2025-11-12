@@ -1,4 +1,5 @@
 #!/bin/bash
+source antenv/bin/activate
 
 echo "🚀 Iniciando aplicación Django con WebSockets en Azure..."
 
